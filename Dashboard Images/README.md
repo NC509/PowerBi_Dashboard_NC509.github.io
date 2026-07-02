@@ -2,7 +2,7 @@
 - This dashboard will be viewed from the following images (1-8). 
 
 
-## Reason for Order
+## Image Details
 - Images 1 and 2 are from the "Global View" page where the locations of observed coral reefs in the data set are shown. The color shows the severity of the coral bleaching in that are over the average of time.
 - Image 3 is the tutorial page for button navigation in the "Analysis" page.
 - Image 4 shows a small information panel that explains what this dashboard portrays.
